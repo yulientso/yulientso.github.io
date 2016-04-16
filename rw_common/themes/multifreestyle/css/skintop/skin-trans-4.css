@@ -1,0 +1,16 @@
+/* www.multithemes.com */
+
+#container #top {
+}
+
+#headerEdge{
+	background-image: url(../../images/elements/extras/header_4.png);
+	background-color: transparent;
+}
+
+#pageHeader h1, #pageHeader h2 {
+	text-shadow: 0px 0px 3px #ffffff;
+
+}
+
+

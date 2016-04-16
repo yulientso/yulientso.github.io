@@ -1,0 +1,5 @@
+/* Title and Slogan SmallCaps */
+
+#pageHeader h1, #pageHeader h2 {
+	font-variant: small-caps;
+}

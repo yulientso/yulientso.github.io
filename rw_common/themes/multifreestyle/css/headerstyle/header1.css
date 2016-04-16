@@ -1,0 +1,38 @@
+/* www.multithemes.com *//* height 100 pixel + 20pixel top */
+
+#container #top {
+	display: none;
+	height: 0;
+}
+
+#container {
+}
+
+#pageHeader {
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+#pageHeader img {
+	float: right;
+	position: absolute;
+	right: 3px;
+	bottom: 19px;
+}
+
+#pageHeader h1 {
+	margin: 0px;
+	padding-top: 25px;
+	padding-bottom: 1px;
+}
+
+#pageHeader h2 {
+	margin: 0px;
+	padding-bottom: 0;
+	letter-spacing: 1px;
+	padding-top: 8px;
+}
+
+

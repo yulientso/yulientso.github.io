@@ -1,0 +1,17 @@
+/* www.multithemes.com */
+
+#container #top {
+	background: #a7180b;
+}
+
+#headerEdge{
+	background: url(../../images/editable_images/1-red-style.jpg) no-repeat 50% -3px #a7180b;
+}
+
+#pageHeader h1, #pageHeader h2 {
+	text-shadow: 2px 2px 5px #000000;
+
+}
+
+
+

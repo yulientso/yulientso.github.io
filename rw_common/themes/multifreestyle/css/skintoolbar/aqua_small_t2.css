@@ -1,0 +1,130 @@
+/* www.multithemes.com */
+
+#shadow{
+	background: url(../../images/elements/tile/toolbar_aqua.png) no-repeat left top;
+	height: 26px;
+	position: relative;
+	bottom: 13px;
+	z-index: 0;
+}
+
+/* color */
+
+#navcontainer {
+	z-index: 1;
+	height: 13px;
+}
+
+/* -----toolbar */
+
+#navcontainer .currentAncestor {
+	text-shadow: 0px 0px 1px #ffffff;
+	font-weight: bold;
+}
+
+/* #fff */
+
+#navcontainer ul {
+}
+
+#navcontainer a{
+	text-shadow: 0px 0px 1px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #fff */
+
+/* base toolbar */
+
+#navcontainer .current {
+	font-weight: bold;
+	text-shadow: 0px 0px 2px #000000;
+	
+}
+
+/* #dadada */
+
+/* 0 */
+
+#navcontainer a:hover {
+	text-shadow: 0px 0px 0px #000000;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #dadada */
+
+/* I edit */
+
+#navcontainer ul ul {
+	top: 20px;
+}
+
+#navcontainer ul ul a {	
+	text-shadow: 0px 0px 0px #000000;
+	background: url(../../images/elements/tile/toolbar_submenu_bl.png) no-repeat left top;
+	height: 20px;	
+	border-right: 1px solid #f8f8f8;
+	border-left: 1px solid #f8f8f8;
+	border-bottom: 1px solid #f8f8f8;
+}
+
+/* #3f3f3f */
+
+#navcontainer ul ul a:hover{
+	background: url(../../images/elements/tile/toolbar_submenu_bl.png) no-repeat left top;		border-right: 1px solid #939393;
+	border-left: 1px solid #939393;
+	border-bottom: 1px solid #939393;
+}
+
+/* #000 */
+
+#navcontainer ul ul .current{
+	background: url(../../images/elements/tile/toolbar_submenu_bl.png) no-repeat left top;
+	font-weight: bold;		
+	border-right: 1px solid #939393;
+	border-left: 1px solid #939393;
+	border-bottom: 1px solid #939393;
+	text-shadow: 0px 0px 0px #000000;
+}
+
+/* #000 */
+
+#navcontainer ul ul .currentAncestor {
+	text-shadow: 0px 0px 0px #000000;	
+	border-right: 1px solid #939393;
+	border-left: 1px solid #939393;
+	border-bottom: 1px solid #939393;
+	background: url(../../images/elements/tile/toolbar_submenu_bl.png) no-repeat left top;
+}
+
+/* #000 */
+
+/* II edit */
+
+#navcontainer ul ul ul {
+	top: 23px;
+	display: none;
+}
+
+#navcontainer ul ul ul li a {
+	text-shadow: 0px 1px 0px #e4e4e4;
+}
+
+/* #000000 */
+
+#navcontainer ul ul ul li a:hover
+ {
+	background: transparent repeat url(../../images/page/trasp-light.png);
+	text-shadow: 0px 1px 0px #e4e4e4;
+	
+}
+
+#navcontainer ul ul ul .current {
+	background: transparent repeat url(../../images/page/trasp-light.png);
+	font-weight: bold;
+	text-shadow: 0px 1px 0px #e4e4e4;
+}
+
+

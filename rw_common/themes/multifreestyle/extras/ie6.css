@@ -1,0 +1,112 @@
+/* fix IE6 */
+
+#navcontainer a{
+	font-size: 12px;
+	line-height: 19px;
+}
+
+#sidebarContainer {
+	width: 200px;
+}
+
+/* 
+
+
+
+*/
+
+/* @group fix some problems in Hide SeideBar mode */
+
+.album-title, .movie-page-title {
+	text-indent: 13px;
+}
+
+.movie-page-description, .album-description {
+	padding-left: 13px;
+	padding-right: 5px;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+
+}
+
+/* margin-left: 5px; */
+
+.movie-thumbnail-frame {
+	float: left;
+	display: inline;
+	width: 131px;
+	text-align: center;
+	margin-right: 5px;
+	margin-left: 10px;
+}
+
+/* @end */
+
+/* @group Grey Box - Top Grey Line */
+
+/* Grey Box! */
+
+.GB_header .close img {
+	top: 0px;
+}
+
+.GB_header .inner {
+	width: auto;
+}
+
+#GB_middle {
+	font-size: 12px;
+}
+
+/* @end */
+
+/* @group h.......... */
+
+h1 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 30px;
+}
+
+h2 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 24px;
+}
+
+h3 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 22px;
+}
+
+h4 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 18px;
+}
+
+h5 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 16px;
+}
+
+
+
+/* @end */
+
+.standout, blockquote {
+	position: relative;
+	z-index: 10;
+}
+

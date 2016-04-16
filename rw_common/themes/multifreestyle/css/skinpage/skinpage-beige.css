@@ -1,0 +1,57 @@
+/* www.multithemes.com */
+
+#container {
+	background: url(../../images/elements/pages/trasp-beige.png) repeat;
+}
+
+/* @group toolbar_sidebar_color NO shadow */
+
+#navcontainer2 {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 ul {
+	text-shadow: 0px 0px 0px #000000;	
+
+}
+
+#navcontainer2 li {
+text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 a {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 a:hover {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+/* level 1 */
+
+#navcontainer2 ul ul {
+	text-shadow: 0px 0px 0px #000000;	
+
+}
+
+#navcontainer2 ul ul li {
+text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 ul ul a {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 ul ul a:hover {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 ul ul .current{
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+#navcontainer2 ul ul .currentAncestor {
+	text-shadow: 0px 0px 0px #000000;	
+}
+
+/* @end */

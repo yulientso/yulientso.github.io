@@ -1,0 +1,6 @@
+/* SHADOW off */
+
+#pageHeader h1, #pageHeader h2
+ {
+	text-shadow: #0b0b0b 0 0 0;
+}

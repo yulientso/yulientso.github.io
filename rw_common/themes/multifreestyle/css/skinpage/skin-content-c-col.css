@@ -1,0 +1,18 @@
+/* Editable with COLOURS options Content container and all sidebar */
+
+
+
+#contentContainer #content,
+#sidebarContainer #sidebar,
+#sidebarContainer .sideHeader,
+.filesharing-item,
+.blog-entry-summary,
+.filesharing-item,
+#navcontainer2  {
+	background-image: none;
+}
+
+.blog-entry-title {
+}
+
+/* www.multithemes.com */

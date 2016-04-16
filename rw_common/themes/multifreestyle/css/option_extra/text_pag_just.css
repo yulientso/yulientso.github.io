@@ -1,0 +1,9 @@
+/* text */
+
+.blog-entry {
+	text-align: justify;
+}
+
+#contentContainer #content {
+    text-align: justify;
+}

@@ -1,0 +1,42 @@
+body {
+	padding-top: 50px;
+	background-position: 50% 67px;
+}
+
+/* sidebar */
+
+#sidebarContainer, #navcontainer, #shadow {
+	display: none;
+}
+
+#breadcrumbcontainer, #footer {
+	display: none;
+}
+
+#container {
+	text-align: left;
+	padding: 0;
+	margin-top: 80px;
+	background-position: 50% -63px;
+}
+
+#contentContainer {
+	border-right: none;
+	border-left: none;
+	width: 100%;
+	padding: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#contentContainer #content {
+	padding: 53px 48px 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#pageHeader, #headerEdge, #headerEdge #rightEdge {
+	display: none;
+}

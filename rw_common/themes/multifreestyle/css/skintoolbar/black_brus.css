@@ -1,0 +1,121 @@
+#contentContainer {
+	margin-top: 4px;
+}
+
+/* www.multithemes.com */
+
+#shadow{
+	background: url(../../images/elements/tile/shadow_1.png) no-repeat left top;
+	height: 6px;
+	position: relative;
+	bottom: 2px;
+}
+
+/* color */
+
+#navcontainer ul ul {
+	margin-left: 0;	
+}
+
+#navcontainer {
+	background: repeat-x url(../../images/colors/toolbar2.jpg) center;
+}
+
+/* -----toolbar */
+
+/* solo colori */
+
+#navcontainer .currentAncestor {
+	text-shadow: 0px 0px 1px #ffffff;
+}
+
+/* #ffffff */
+
+#navcontainer ul {
+	background: repeat-x url(../../images/colors/toolbar-black.jpg);
+	
+}
+
+#navcontainer a{
+	text-shadow: 0px 1px 0px #000000;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #d2d2d2 */
+
+/* base toolbar */
+
+/* 0 */
+
+#navcontainer a:hover {
+	text-shadow: 0px 0px 3px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #ffffff */
+
+/* I */
+
+#navcontainer ul ul {
+	position: absolute;
+	left: 0;
+	top: 22px;
+}
+
+#navcontainer ul ul a {
+	text-shadow: 0px 1px 0px #d6d6d6;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #252525 */
+
+#navcontainer ul ul a:hover{
+	text-shadow: 0px 1px 0px #d6d6d6;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #00456e */
+
+#navcontainer ul ul .current{
+	text-shadow: 0px 1px 0px #d6d6d6;
+	border-style: none;
+	font-weight: bold;
+}
+
+/* #00456e */
+
+#navcontainer ul ul .currentAncestor {
+	text-shadow: 0px 1px 0px #d6d6d6;
+}
+
+/* #0075ba */
+
+/* II  --> over */
+
+#navcontainer ul ul ul {
+	position: absolute;
+	left: 0;
+	top: 19px;
+}
+
+#navcontainer ul ul ul li a:hover
+ {
+	text-shadow: 0px 1px 0px #ffffff;
+	text-decoration: none;
+	border-style: none;
+		
+}
+
+/* #00456e */
+
+#navcontainer ul ul ul .current {
+	font-weight: bold;
+}
+
+/* #00456e */
+
+

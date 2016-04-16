@@ -1,0 +1,16 @@
+/* www.multithemes.com */
+
+#container #top {
+	background: #585858;
+}
+
+#headerEdge{
+	background: #585858 no-repeat url(../../images/editable_images/3-grey-only.jpg) 50% 0px;
+}
+
+#pageHeader h1, #pageHeader h2 {
+	text-shadow: 2px 2px 5px #000000;
+
+}
+
+

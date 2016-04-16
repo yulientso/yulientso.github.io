@@ -1,0 +1,25 @@
+/* below areas- new */
+
+
+
+#contentContainer #content, #sidebarContainer #sidebar, #sidebarContainer .sideHeader  {
+	background: #ebebeb url(../../images/elements/tile/box_grey.jpg) no-repeat left top;
+}
+
+/* below specifiche- new */
+
+.filesharing-item {
+	background: #ebebeb url(../../images/elements/tile/box_grey.jpg) no-repeat left top;
+}
+
+#navcontainer2 {
+	background: #ebebeb url(../../images/elements/tile/box_grey.jpg) no-repeat left top;
+}
+
+.blog-entry-title, .album-title, .movie-page-title {
+	background: #ebebeb url(../../images/elements/tile/box_grey.jpg) no-repeat left top;
+}
+
+/* www.multithemes.com */
+
+

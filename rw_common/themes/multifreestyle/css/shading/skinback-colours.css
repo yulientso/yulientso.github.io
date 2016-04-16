@@ -1,0 +1,28 @@
+/* www.multithemes.com */
+
+
+body {
+
+}
+
+.photo-background {
+}
+
+/* Nrounded corners OFF */
+
+#pageHeader {
+	background-image: none;
+}
+
+#footer {
+	background-image: none;
+}
+
+#headerEdge #rightEdge {
+	background-image: none;
+}
+
+
+#footerEdge #rightEdge {
+	background-image: none;
+}

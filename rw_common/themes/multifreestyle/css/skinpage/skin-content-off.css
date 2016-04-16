@@ -1,0 +1,26 @@
+/* all off */
+
+/* below areas- new */
+
+
+
+#contentContainer #content, #sidebarContainer #sidebar, #sidebarContainer .sideHeader  {
+	background-image: none;
+	background-color: transparent;
+}
+
+/* below specifiche- new */
+
+.filesharing-item, .blog-entry-summary, .filesharing-item {
+	background-image: none;
+	background-color: transparent;
+}
+
+#navcontainer2 {
+	background-image: none;
+	background-color: transparent;
+}
+
+/* www.multithemes.com */
+
+

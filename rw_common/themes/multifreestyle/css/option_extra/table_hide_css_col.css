@@ -1,0 +1,10 @@
+/* Hide current bvackground color in Table background */
+
+table,
+code,
+.filesharing-description,
+.movie-description
+ {
+	background-color: transparent;
+	background-image: none;
+}

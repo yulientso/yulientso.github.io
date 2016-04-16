@@ -1,0 +1,39 @@
+/* www.multithemes.com */
+
+
+/* black */
+
+
+body {
+	background: #000 url(../../images/editable_images/2-black-only.jpg) no-repeat fixed 50% 20px}
+
+.photo-background, .movie-background {
+	background-color: #000;
+}
+
+#pageHeader {
+	background: url(../../images/background/black-sx-top.gif) no-repeat left top;
+}
+
+#footer {
+	background: no-repeat url(../../images/background/black-sx-botton.gif) left bottom;
+}
+
+#headerEdge #rightEdge {
+
+	background: url(../../images/background/black-dx-top.gif) no-repeat right top;
+}
+
+#headerEdge #rightEdge2 {
+
+	background: url(../../images/background/black-dx-top.gif) no-repeat right top;
+}
+
+
+#footerEdge #rightEdge {
+	background: right bottom no-repeat url(../../images/background/black-dx-botton.gif);
+}
+
+#footerEdge #rightEdge2 {
+	background: right bottom no-repeat url(../../images/background/black-dx-botton.gif);
+}

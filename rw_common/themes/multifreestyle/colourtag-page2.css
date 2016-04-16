@@ -1,0 +1,345 @@
+/* @group Content Container COLOUR */
+
+#contentContainer #content,
+#sidebarContainer #sidebar,
+#sidebarContainer .sideHeader,
+.filesharing-item,
+.blog-entry-summary,
+.filesharing-item,
+#navcontainer2 {
+background-color: #ECECEC;	
+}
+
+
+/* @end */
+
+/* @group PAGE COLOR colour */
+
+#container {
+background-color: #FFFFFF;	
+}
+
+table,
+code,
+.movie-background,
+.photo-background {
+background-color: #FFFFFF;	
+}
+
+
+
+/* @end */
+
+/* @group Background COLOR colour */
+
+body {
+background-color: #A41B12;	
+}
+
+
+/* @end */
+
+/* @group Title and Slogan + Background COLOR */
+
+#pageHeader h1, #viewingButton #text {
+	color: #FF8000;
+}
+
+#pageHeader h2
+{
+	color: #FFFFFF;
+}
+
+/* below the header Background */
+
+#headerEdge {
+	background-color: #A41B12;	
+
+}
+
+
+
+/* @end */
+
+/* @group Text PAGE */
+
+/* --------navigation */
+
+#breadcrumbcontainer li {
+	color: #B8B8B8;
+
+}
+
+.album-title,
+.movie-page-title,
+.filesharing-item-title,
+.standout,
+blockquote {
+	color: #B8B8B8;
+
+}
+
+#contentContainer {
+	color: #E6E6E6;
+}
+
+#footer {
+	color: #FFFFFF;
+}
+
+/* Borders Below */
+
+.album-title,
+.movie-page-title,
+.filesharing-item-title a:link,
+.blog-entry-date {
+	border-bottom-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+}
+
+
+#contentContainer, #footer  {
+	border-left-color: #E6E6E6;
+	border-right-color: #E6E6E6;
+}
+
+td  {
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+
+table, code  {
+	border-left-color: #B8B8B8;
+	border-right-color: #B8B8B8;
+	border-top-color: #B8B8B8;
+	border-bottom-color: #B8B8B8;
+	color: #B8B8B8;
+}
+
+/* ---GreyBox COLOUR --- */
+
+/* Top/Bottom borders */
+
+.GB_header {
+	border-top-color: #666666;
+	border-bottom-color: #666666;	
+}
+
+/* Gallery text */
+
+.GB_header .caption,
+.GB_Window .header {
+	color: #666666;
+}
+
+/* Gallery number between  */
+
+#GB_middle {
+	color: #7A7A7A;
+}
+
+/* frame border */
+
+.GB_Window .content {
+	border-left-color: #333333;
+	border-right-color: #333333;
+	border-top-color: #333333;
+	border-bottom-color: #333333;
+	
+}
+
+.GB_Gallery .content,
+.GB_Window .close {
+	border-left-color: #666666;
+	border-right-color: #666666;
+	border-top-color: #666666;
+	border-bottom-color: #666666;
+	
+}
+
+/* Horiz. Slideshow backgound */
+
+.GB_header .inner {
+	background-color: #333333;
+}
+
+/* borders window and background site */
+
+.GB_Window .header,
+.GB_Window .content {
+	background-color: #333333;
+}
+
+/* Horiz. Transparent backgound below */
+
+#GB_overlay, .GB_Gallery .content {
+	background-color: #333333;
+}
+
+/* pulsantino pages */
+
+.GB_Window .on {
+	color: #7A7A7A;
+}
+
+.GB_Window .click {
+	color: #999999;
+	
+}
+
+/* ---GreyBox COLOUR ---END */
+
+/* @end */
+
+/* @group Text SIDEBAR */
+
+#navcontainer2 a {
+	border-bottom-color: #F4F4F4;
+}
+
+#sidebarContainer .lastpublished
+.GB_Window .close {
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	
+}
+
+#sidebarContainer {
+	color: #CCCCCC;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer .lastpublished,
+.standout, #sidebar blockquote  {
+	color: #A3A3A3;
+}
+
+/* @end */
+
+/* @group Text Colour - Horiz.Toolbar */
+
+/* 0 normal */
+
+#navcontainer a {	
+color: #FF8000;
+}
+
+/* 1 e 2 normal  SUBMENU */
+
+#navcontainer ul ul a,
+#navcontainer ul ul ul li a{	
+color: #000000;
+}
+
+/* 0 over */
+
+#navcontainer a:hover,
+#navcontainer a:active,
+#navcontainer .current,
+#navcontainer .currentAncestor {	
+color: #FF0000;
+}
+
+/* 1 e 2 over  SUBMENU */
+
+#navcontainer ul ul a:hover,
+#navcontainer ul ul a:active,
+#navcontainer ul ul .current,
+#navcontainer ul ul .currentAncestor,
+#navcontainer ul ul ul a:hover,
+#navcontainer ul ul ul a:active,
+#navcontainer ul ul ul .current,
+#navcontainer ul ul ul .currentAncestor{	
+color: #FF8000;
+}
+
+
+
+/* @end */
+
+/* @group Text Colour #FF8000   NORMAL */
+
+/* --------navigation */
+
+#breadcrumbcontainer a {
+	color: #FF9900;
+}
+
+#navcontainer2 a,
+#navcontainer2 .currentAncestor {
+	color: #FFA600;
+}
+
+/* Vertical Toolbar Sidebar */
+
+#navcontainer2 ul ul a  {
+	color: #FF9900;
+}
+#navcontainer2 ul ul ul a {
+	color: #FF8C00;
+}
+#navcontainer2 ul ul ul ul a,
+#navcontainer2 ul ul ul ul ul a {
+	color: #FF8000;
+}
+
+/* links */
+
+a:link {
+	color: #FF8000;
+}
+
+/* @end */
+
+/* @group Text Colour #FFCC66  ACTIVE ecc */
+
+/* --------navigation */
+
+#breadcrumbcontainer a:hover   {
+	color: #FFCC66;
+}
+
+/* Vertical Toolbar Sidebar */
+
+#navcontainer2 a:hover,
+#navcontainer2 ul .current {
+	color: #FFCC66;
+}
+
+#navcontainer2 ul .current,
+#navcontainer2 ul ul a:hover,
+#navcontainer2 ul ul #current   {
+	color: #FFCC66;
+
+}
+
+/* movie photos links */
+
+.thumbnail-frame:hover,
+.movie-thumbnail-frame:hover   {
+	color: #FFCC66;
+
+}
+
+/* links */
+
+a:hover, a:active, a:visited   {
+	color: #FFCC66;
+}
+
+.blog-archive-link-enabled,
+.blog-category-link-enabled,
+.blog-entry-permalink a:visited   {
+	color: #FFCC66;
+
+}
+
+/* @end */
+
+
+
+

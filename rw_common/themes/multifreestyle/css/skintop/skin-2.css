@@ -1,0 +1,21 @@
+/* www.multithemes.com */
+
+#container #top {
+	background: #000000;
+}
+
+#headerEdge{
+	background: no-repeat url(../../images/editable_images/2-black-style.jpg) 50% 0px #000000;
+}
+
+#pageHeader h1 {
+	text-shadow: 3px 3px 2px #000000;
+
+}
+
+#pageHeader h2 {
+	text-shadow: 3px 3px 2px #000000;
+}
+
+
+

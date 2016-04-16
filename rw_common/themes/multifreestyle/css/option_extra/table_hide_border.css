@@ -1,0 +1,7 @@
+/* Hide Borders - Code and Table */
+
+table, th, td, code {
+	
+	border: 0px solid;
+	
+}

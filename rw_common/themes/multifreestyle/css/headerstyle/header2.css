@@ -1,0 +1,36 @@
+/* www.multithemes.com *//* height 145 pixel + 20pixel top */
+
+#container #top {
+	display: none;
+}
+
+#container {
+	padding: 0;
+}
+
+#pageHeader, #headerEdge, #headerEdge #rightEdge {
+	height: 143px;
+	position: relative;
+}
+
+#pageHeader img {
+	float: right;
+	position: absolute;
+	right: 3px;
+	bottom: 39px;
+}
+
+#pageHeader h1 {
+	margin: 0px;
+	padding-top: 53px;
+	padding-bottom: 1px;
+}
+
+#pageHeader h2 {
+	margin: 0px;
+	padding-bottom: 0;
+	letter-spacing: 1px;
+	padding-top: 8px;
+}
+
+

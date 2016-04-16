@@ -1,0 +1,129 @@
+/* www.multithemes.com */
+
+#shadow{
+	background: url(../../images/elements/tile/shadow_1.png) no-repeat left top;
+	height: 6px;
+	position: relative;
+	bottom: 13px;
+}
+
+/* color */
+
+#navcontainer {
+	height: 33px;
+}
+
+/* -----toolbar */
+
+#navcontainer .currentAncestor {
+	text-shadow: 0px 1px 0px #ffffff;
+}
+
+/* #0075ba */
+
+#navcontainer ul {
+	background: repeat-x url(../../images/colors/toolbar-grey.jpg);
+	
+}
+
+#navcontainer a{
+	text-shadow: 0px 1px 0px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #252525 */
+
+/* base toolbar */
+
+#navcontainer .current {
+	font-weight: bold;
+	text-shadow: 2px 2px 1px #dddddd;
+}
+
+/* #00456e */
+
+/* 0 */
+
+#navcontainer a:hover {
+	text-shadow: 0px 1px 0px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #00456e */
+
+/* I edit */
+
+#navcontainer ul ul {
+	top: 20px;
+}
+
+#navcontainer ul ul a {	
+	text-shadow: 0px 0px 0px #000000;
+	background: url(../../images/elements/tile/toolbar_submenu.png) no-repeat left top;
+	height: 20px;
+	
+	border-right: 1px solid #f8f8f8;
+	border-left: 1px solid #f8f8f8;
+	border-bottom: 1px solid #f8f8f8;
+
+}
+
+/* #000000 */
+
+#navcontainer ul ul a:hover{
+	background-color: #bfbfbd;
+		
+	border-right: 1px solid #bfbfbd;
+	border-left: 1px solid #bfbfbd;
+	border-bottom: 1px solid #bfbfbd;
+}
+
+#navcontainer ul ul .current{
+	background-color: #bfbfbd;
+	font-weight: bold;
+		
+	border-right: 1px solid #bfbfbd;
+	border-left: 1px solid #bfbfbd;
+	border-bottom: 1px solid #bfbfbd;
+}
+
+#navcontainer ul ul .currentAncestor {
+	text-shadow: 0px 1px 0px #e4e4e4;
+	
+	border-right: 1px solid #bfbfbd;
+	border-left: 1px solid #bfbfbd;
+	border-bottom: 1px solid #bfbfbd;
+	background-color: #bfbfbd;
+}
+
+/* #0075ba */
+
+/* II edit */
+
+#navcontainer ul ul ul {
+	top: 23px;
+	display: none;
+}
+
+#navcontainer ul ul ul li a {
+	text-shadow: 0px 1px 0px #e4e4e4;
+}
+
+/* #000000 */
+
+#navcontainer ul ul ul li a:hover
+ {
+	background: transparent repeat url(../../images/page/trasp-light.png);
+	text-shadow: 0px 1px 0px #e4e4e4;
+	
+}
+
+#navcontainer ul ul ul .current {
+	background: transparent repeat url(../../images/page/trasp-light.png);
+	font-weight: bold;
+	text-shadow: 0px 1px 0px #e4e4e4;
+}
+
+

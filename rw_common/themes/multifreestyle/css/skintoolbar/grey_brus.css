@@ -1,0 +1,135 @@
+#contentContainer {
+	margin-top: 4px;
+}
+
+/* www.multithemes.com */
+
+#shadow{
+	background: url(../../images/elements/tile/shadow_1.png) no-repeat left top;
+	height: 6px;
+	position: relative;
+	bottom: 2px;
+}
+
+/* color */
+
+#navcontainer ul ul {
+	margin-left: 0;	
+}
+
+#navcontainer {
+	background: repeat-x url(../../images/colors/toolbar2.jpg) center;
+}
+
+/* -----toolbar */
+
+/* solo colori */
+
+#navcontainer .currentAncestor {
+	text-shadow: 0px 1px 0px #e4e4e4;
+
+}
+
+/* #0075ba */
+
+#navcontainer ul {
+	background: repeat-x url(../../images/colors/toolbar-grey.jpg);
+	
+}
+
+#navcontainer .current {
+	text-shadow: 0px 1px 0px #e4e4e4;
+	text-decoration: none;
+	border-style: none;
+	font-weight: bold;
+}
+
+/* #00456e */
+
+/* x */
+
+#navcontainer li {
+	background: transparent;
+	text-decoration: none;
+}
+
+#navcontainer a{
+	text-shadow: 0px 1px 0px #e4e4e4;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #252525 */
+
+#navcontainer a:hover {
+	text-shadow: 0px 1px 0px #e4e4e4;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #00456e */
+
+#navcontainer a:active {
+	text-shadow: 0px 0px 2px #e4e4e4;
+	text-decoration: none;
+}
+
+/* #00456e */
+
+/* I */
+
+#navcontainer ul ul {
+	position: absolute;
+	left: 0;
+	top: 22px;
+}
+
+#navcontainer ul ul a {
+	text-shadow: 0px 1px 0px #d6d6d6;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #252525 */
+
+#navcontainer ul ul a:hover{
+	text-shadow: 0px 1px 0px #d6d6d6;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #00456e */
+
+#navcontainer ul ul .current{
+	text-shadow: 0px 1px 0px #d6d6d6;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #00456e */
+
+/* II  --> over */
+
+#navcontainer ul ul ul {
+	position: absolute;
+	left: 0;
+	top: 19px;
+}
+
+#navcontainer ul ul ul li a:hover
+ {
+	text-shadow: 0px 1px 0px #ffffff;
+	text-decoration: none;
+	border-style: none;
+		
+}
+
+/* #00456e */
+
+#navcontainer ul ul ul .current {
+	font-weight: bold;
+}
+
+/* #00456e */
+
+

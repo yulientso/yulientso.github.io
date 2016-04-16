@@ -1,0 +1,33 @@
+/* www.multithemes.com */body {
+	background: #585858 no-repeat url(../../images/editable_images/3-grey-only.jpg) 50% 20px fixed;
+}
+
+.photo-background, .movie-background {
+	background-color: #585858;
+}
+
+#pageHeader {
+	background: url(../../images/background/grey-sx-top.gif) no-repeat left top;
+}
+
+#footer {
+	background: no-repeat url(../../images/background/grey-sx-botton.gif) left bottom;
+}
+
+#headerEdge #rightEdge {
+
+	background: url(../../images/background/grey-dx-top.gif) no-repeat right top;
+}
+
+#headerEdge #rightEdge2 {
+
+	background: url(../../images/background/grey-dx-top.gif) no-repeat right top;
+}
+
+#footerEdge #rightEdge {
+	background: right bottom no-repeat url(../../images/background/grey-dx-botton.gif);
+}
+
+#footerEdge #rightEdge2 {
+	background: right bottom no-repeat url(../../images/background/grey-dx-botton.gif);
+}

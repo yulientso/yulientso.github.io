@@ -1,0 +1,1353 @@
+/* www.multithemes.com Freestyle, format version 2.0 RW3.6 - 2007
+Copyright:
+You can modify all features of  theme but only for your personal use.
+By installing this theme file onto your computer, you agree that you will use this theme only for your personal web design.
+You can't distribute or resell this theme without written permission from Multithemes.      
+ */
+
+/* @group the magic png  */
+
+#shadow{
+	}
+
+
+
+/* @end */
+
+/* @group variable corners */
+
+#headerEdge{
+}
+
+
+
+#headerEdge #rightEdge {
+}
+
+#footerEdge {
+
+}
+
+#footerEdge #rightEdge {
+
+}
+	
+/* @end *//* @group general styles */
+
+body {
+	text-align: center;
+	margin: 0 0 15px;
+	font-size: 12px;
+	padding: 20px;
+}
+
+p {
+}
+
+b, strong {
+
+}
+
+a:link {
+	text-decoration: none;
+
+}
+
+a:visited {
+	text-decoration: none;
+
+}
+
+a:hover, a:active {
+
+}
+
+img {
+	border-style: none;
+}
+
+.image-left {
+	float: left;
+	margin: 3px 4px 1px 0;
+	padding: 3px 4px 1px 0;
+}
+
+.image-right {
+	float: right;
+	margin: 3px 0 1px 4px;
+	padding: 3px 0 1px 4px;
+}
+	
+/* @end */
+
+/* @group layout */
+
+.clearer {
+	clear: both;
+}
+
+#container #top {
+
+}
+
+#container {
+	text-align: left;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0;
+}
+
+#content {
+
+}
+
+#pageHeader {
+	margin: 0;
+	padding: 0;
+}
+
+#pageHeader img {
+	margin-right: 15px;
+}
+
+#pageHeader h1 {
+	font-weight: bold;
+}
+
+#pageHeader h2 {
+	font-weight: bold;
+}
+
+#contentContainer {
+	margin-bottom: 6px;
+	margin-top: 10px;
+	font-size: 12px;
+	line-height: 17px;
+}
+
+#contentContainer #content {
+	padding: 10px;
+}
+
+#sidebarContainer {
+	width: 200px;
+	font-size: 11px;
+	line-height: 16px;
+	margin-top: 3px;
+	margin-bottom: -10px;
+}
+
+#sidebarContainer #sidebar {
+	padding: 5px 10px;
+}
+
+#sidebarContainer .sideHeader {
+	font-weight: bold;
+	font-size: 12px;
+	padding: 4px 10px 3px;
+	margin-bottom: 7px;
+	margin-top: 7px;
+}
+
+#sidebarContainer .lastpublished {
+	background: url(images/elements/icons/lastpublished.gif) no-repeat left center;
+	margin: 0 0 10px;
+	padding: 5px;
+	font-size: 13px;
+	font-style: italic;
+	text-indent: 20px;
+	text-align: center;
+	border-top-style: dotted;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+}
+
+#footer {
+	text-align: right;
+	padding-bottom: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	height: 20px;
+	font-size: 12px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#footer p {
+	padding: 0;
+	margin: 0;
+}
+
+#footer a:link, #footer a:visited {
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+#footer a:hover, #footer a:active {
+	text-decoration: underline;	
+}
+	
+/* @end */
+
+/* @group bread crumb */
+
+#breadcrumbcontainer {
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0;
+	background: transparent;
+	font-size: 12px;
+	padding: 0 15px;
+	line-height: 22px;
+}
+
+#breadcrumbcontainer ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#breadcrumbcontainer li {
+	display: inline;
+	padding: 0;
+}
+
+#breadcrumbcontainer a {
+	text-decoration: none;
+}
+
+#breadcrumbcontainer a:hover {
+	text-decoration: underline;
+}
+	
+/* @end */
+
+/* @group Toolbar - horizontal */
+
+#navcontainer {
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	height: 64px;
+	text-decoration: none;
+}
+
+#navcontainer #current {
+
+}
+
+#navcontainer .current {
+	font-weight: bold;
+}
+
+#navcontainer .currentAncestor {
+	background: transparent;
+}
+
+/* x */
+
+#navcontainer ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#navcontainer li {
+	display: inline;
+	float: left;
+}
+
+#navcontainer a{
+	width: 120px;
+	display: block;
+	text-align: center;
+	height: 20px;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+#navcontainer a:hover {
+}
+
+#navcontainer a:active {
+}
+
+/* I */
+
+#navcontainer ul ul {
+	position: absolute;
+	left: 0;
+	top: 22px;
+	background: transparent;
+	margin-left: 10px;
+	margin-right: 0;
+	
+}
+
+#navcontainer ul ul li {
+	background: transparent;
+	color: #000000;
+}
+
+#navcontainer ul ul a {
+	height: 22px;
+	color: #000000;
+	margin-right: 0;
+	margin-left: 0;
+	width: 120px;
+	font-size: 11px;
+}
+
+#navcontainer ul ul a:hover{
+	background: transparent;
+}
+
+#navcontainer ul ul .current{
+	font-weight: bold;
+}
+
+#navcontainer ul ul #current{
+	background: transparent;
+}
+
+/* II  --> over */
+
+#navcontainer ul ul ul {
+	position: absolute;
+	left: 0;
+	top: 12px;
+	margin: 0;
+	white-space: nowrap;
+	padding: 0px 0px 0px 0;
+	background: transparent;
+}
+
+#navcontainer ul ul ul li
+ {
+	background: transparent;
+}
+
+#navcontainer ul ul ul li a
+ {
+	background: transparent;
+	font-size: 11px;
+}
+
+#navcontainer ul ul ul li a:hover
+ {
+	background: transparent;
+}
+
+#navcontainer ul ul ul .current {
+	font-weight: bold;
+}
+
+#navcontainer ul ul ul #current {
+	background: transparent;
+}
+
+#navcontainer ul ul ul ul
+ {
+	background: transparent;
+	display: none;
+}
+
+/* @end */
+
+/* @group Toolbar - sidebar */
+
+#navcontainer2 {
+	margin-top: 0;
+}
+
+#navcontainer2 ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	position: relative;
+}
+
+#navcontainer2 li {
+	display: inline;
+	text-align: left;
+	position: relative;
+}
+
+#navcontainer2 a {
+	display: none;
+	text-decoration: none;
+	height: 24px;
+	text-align: left;
+	position: relative;
+	font-size: 12px;
+	line-height: 25px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+#navcontainer2 a:hover {
+}
+
+/* Child - Level 1 */
+
+#navcontainer2 ul ul {
+	text-align: left;
+	text-indent: 20px;
+}
+
+#navcontainer2 ul ul li {
+	display: block;
+}
+
+#navcontainer2 ul ul a {
+	display: block;
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 10px 10px;
+}
+
+#navcontainer2 ul ul a:hover {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 10px 10px;
+	
+}
+
+#navcontainer2 ul ul .current {
+	font-weight: bold;
+}
+
+#navcontainer2 ul ul .currentAncestor {
+	font-weight: bold;
+}
+
+/* Child - Level 2 */
+
+#navcontainer2 ul ul ul {
+	text-indent: 30px;
+}
+
+#navcontainer2 ul ul ul li {
+}
+
+#navcontainer2 ul ul ul a {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 20px 10px;
+}
+
+#navcontainer2 ul ul ul a:hover {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 20px 10px;
+
+}
+
+#navcontainer2 ul ul ul .current {
+	font-weight: bold;
+}
+
+/* Child - Level 3 */
+
+#navcontainer2 ul ul ul ul {
+	text-indent: 40px;
+}
+
+#navcontainer2 ul ul ul ul li { 
+}
+
+#navcontainer2 ul ul ul ul a {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 30px 10px;
+}
+
+#navcontainer2 ul ul ul ul a:hover {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 30px 10px;
+}
+
+#navcontainer2 ul ul ul ul .current {
+	font-weight: bold;
+}
+
+/* Child - Level 4 */
+
+#navcontainer2 ul ul ul ul ul {
+	text-indent: 50px;
+}
+
+#navcontainer2 ul ul ul ul ul li { 
+}
+
+#navcontainer2 ul ul ul ul ul a {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 40px 10px;
+}
+
+#navcontainer2 ul ul ul ul ul a:hover {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 40px 10px;
+}
+
+#navcontainer2 ul ul ul ul ul .current {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 40px 10px;
+	font-weight: bold;
+}
+
+/* @end */
+
+/* @group global and blockquote  */
+
+/* code */
+
+code {
+	padding: 10px;
+	margin-left: 20px;
+	border: 1px dashed #c9c9c9;
+	display: block;
+	margin-right: 20px;
+	font: 12px Courier, "Courier New", sans-serif;
+}
+
+/* blockquote */
+
+blockquote p {
+	border-style: none;
+	font-size: 13px;
+}
+
+.standout, blockquote {
+		text-align: left;
+	font-size: 16px;
+	margin: 3px 0;
+	font-style: italic;
+	padding: 10px 20px 15px 57px;
+		background: url(images/elements/icons/quotes_1.gif) no-repeat 1px 9px;
+	border-style: none;
+
+}
+
+.standout, #sidebar blockquote {
+	font-size: 14px;
+	font-style: italic;
+	padding: 0 5px 9px 24px;
+	margin: 0;
+	text-align: left;
+	background: url(images/elements/icons/quotes_2.gif) no-repeat 1px 15px;
+	border-style: none;
+}
+
+/* h.......... */
+
+h1 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 27px;
+}
+
+h2 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 20px;
+}
+
+h3 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 18px;
+}
+
+h4 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 16px;
+}
+
+h5 {
+	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 13px;
+}
+
+.imageStyle {
+	border: 1px none;
+}
+
+/* Main content area unordered list styles */
+
+#contentContainer #content ul {
+}
+
+#contentContainer #content li {
+}
+
+/* Sidebar area unordered list styles */
+
+#sidebarContainer #sidebar ul {
+}
+
+#sidebarContainer #sidebar li {
+}
+
+/* Table Styles */
+
+table {
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+}
+
+td {
+	border-width: 1px;
+	border-style: solid;
+}
+
+th {
+	
+}
+/* @end */
+
+/* @group blog */
+ 
+ .blog-read-more {
+	padding: 5px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+#blog-rss-feeds {
+	font-size: 12px;
+	line-height: 24px;
+	margin-top: 4px;
+}
+
+.blog-rss-link {
+		background: url(images/elements/icons/rss.gif) no-repeat 0px 0px;
+	padding-left: 23px;
+	padding-bottom: 4px;
+}
+
+.blog-comments-rss-link {
+		background: url(images/elements/icons/rss.gif) no-repeat 0px 0px;
+	padding-left: 25px;
+	padding-bottom: 4px;
+}
+
+/* The blog also supports styles for the Read More links, it uses the followig CSS tag: */
+
+.blog-entry-title {
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 22px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding: 4px 2px 4px 8px;
+	width: 96%;
+	position: relative;
+	margin-bottom: 1px;
+}
+
+.blog-entry-title a {
+	text-decoration: none;
+}
+
+.blog-entry-title a:hover {
+	text-decoration: none;
+}
+
+.blog-entry {
+}
+
+.blog-entry-summary {
+	margin-bottom: 13px;
+	margin-top: 2px;
+}
+
+.blog-entry-comments {
+	text-align: right;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	font-size: 11px;
+}
+
+.blog-entry-date {
+	text-align: right;
+	margin-top: 1px;
+	font-size: 11px;
+	padding-right: 10px;
+}
+
+.blog-entry-category {
+	background: url(images/elements/icons/categories.gif) no-repeat 0 40%;
+	margin-left: 4px;
+	padding-left: 16px;
+	padding-bottom: 3px;
+}
+
+.blog-entry-permalink {
+	padding-left: 16px;
+	background: url(images/elements/icons/permalink.gif) no-repeat 0 40%;
+	margin-left: 4px;
+	padding-bottom: 3px;
+	padding-right: 10px;
+}
+
+.blog-entry-body {
+	margin-bottom: 15px;
+	padding: 0;
+	margin-top: 10px;
+	
+}
+
+.blog-category-link-enabled {
+	font-size: 13px;
+	padding-bottom: 3px;
+	line-height: 20px;
+	font-weight: bold;
+	background: url(images/elements/icons/blog_back_on.gif) no-repeat 0px 3px;
+	padding-left: 14px;
+}
+
+.blog-category-link-disabled {
+	font-size: 13px;
+	padding-bottom: 3px;
+	line-height: 20px;
+	font-weight: bold;
+	background: url(images/elements/icons/blog_back_off.gif) no-repeat 0px 3px;
+	padding-left: 14px;
+	position: static;
+	z-index: 1;
+}
+
+/* @group Archive Page */
+
+.blog-archive-background {
+	text-decoration: none;
+
+
+}
+
+.blog-archive-headings-wrapper { 	text-align: left;
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.blog-archive-entries-wrapper { 	text-align: left; 
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 1px;
+		position: relative;
+	z-index: 3;
+
+}.blog-archive-link a:link, .blog-archive-link a:visited {
+}
+
+.blog-archive-link a:hover {
+	text-decoration: underline;
+}
+
+.blog-archive-month {
+	font-weight: bold;
+	font-size: 25px;
+	text-align: left;
+	text-indent: 40px;
+	background: 12px 4px url(images/elements/icons/archives.gif) no-repeat;
+	line-height: 30px;
+	margin-top: 0;
+		position: relative;
+	z-index: 3;
+	margin-bottom: 4px;
+}
+
+.blog-archive-link {
+	font-size: 13px;
+	background: url(images/elements/icons/blog_back_on.gif) no-repeat 22px 3px;
+	text-align: left;
+	text-indent: 41px;
+	margin-bottom: 16px;
+		position: relative;
+	z-index: 3;
+}
+
+.blog-archive-link a:hover {
+	text-decoration: none;
+}
+
+.blog-archive-link-enabled {
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat left center;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.blog-archive-link-disabled {
+	padding-left: 13px;
+	font-size: 12px;
+	padding-top: 10px;
+}
+	
+/* @end */
+
+/* @end */
+
+/* @group file sharing */
+
+.filesharing-description {
+	margin-bottom: 10px;
+}
+
+.filesharing-item {
+	padding: 6px 1px 0 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	position: relative;
+}
+
+.filesharing-item-title a:link {
+	margin-bottom: 5px;
+	text-decoration: none;
+	padding: 1px 1px 1px 21px;
+	background: url(images/elements/icons/file_sharing.gif) no-repeat 0 50%;
+}
+
+.filesharing-item-title a:hover {
+	text-decoration: none;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.filesharing-item-title a:visited {
+	text-decoration: none;
+}
+
+.filesharing-item-description {
+
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 11px;
+	padding: 3px;
+}
+
+/* @end */
+
+/* @group photo album */
+
+/* Index Page (Thumbnail view) */
+
+.album-title {
+	font-weight: bold;
+	margin-top: 0;
+	font-size: 18px;
+	padding-bottom: 5px;
+	text-indent: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-top: 4px;
+	position: relative;
+}
+
+.album-description {
+	padding-top: 6px;
+	text-align: left;
+	margin-bottom: 55px;
+}
+
+.album-wrapper {
+	display: block;
+	width: 99%;
+	position: relative;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+	margin-bottom: 45px;
+	margin-right: 8px;
+	margin-left: 0;
+}
+
+.thumbnail-frame {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.thumbnail-frame:hover {
+}
+
+.thumbnail-frame a {
+}
+
+.thumbnail-frame a:hover {
+	text-decoration: underline;
+}
+
+.thumbnail-frame img {
+     border: none;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+
+.thumbnail-caption {
+	margin: 0;
+	padding: 0;
+	height: 35px;
+	display: block;
+	font-size: 11px;
+	line-height: 20px;
+}
+
+.thumbnail-table {
+	width: 59%;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+
+/* single page- view */
+
+.photo-background {
+	margin: 0;
+	padding: 0;
+}
+
+.photo-navigation {
+	background-color: #1e1e1e;
+	border: 2px solid #9c9c9c;
+	margin: 10px 200px 20px;
+	padding: 0;
+	text-align: center;
+}
+
+.photo-links {
+	color: #666;
+	font-weight: bold;
+	margin: 0;
+	padding: 0 0 5px;
+}
+
+.photo-navigation a {
+}
+
+.photo-navigation a:link, .photo-navigation a:visited {
+	color: #e6e6e6;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+.photo-navigation a:hover {
+	text-decoration: underline;
+	color: #e6e6e6;
+	padding: 0;
+	margin: 0;
+}
+
+.photo-frame{
+	margin: 0;
+	border: 2px solid #9c9c9c;
+}
+
+.photo-title {
+	font-weight: bold;
+	color: #fff;
+	font-size: 20px;
+	margin: 0;
+	padding: 5px 0 0;
+}
+
+.photo-caption {
+	color: #ccc;
+	font-style: italic;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+/* up title */
+
+/* @group EXIF data */
+/* Data wrapper */
+.exif-data {
+	padding: 48px 10px 10px;
+	margin: 20px 200px;
+	background: #1e1e1e url(images/elements/efix/efix_data_icon.gif) no-repeat 9px 10px;
+	border: 2px solid #9c9c9c;
+}
+
+.exif-data p {
+	color: #fff;
+	text-align: left;
+	background: url(images/elements/icons/arrow_triangle.gif) no-repeat 16px 50%;
+	padding-left: 30px;
+	border-bottom: 1px solid #2f2f2f;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+/* p tag classes for all exif data */
+p.exif-version {
+}
+
+p.exif-colour-space {
+}
+
+/* icon */
+
+p.exif-focal-length {
+	background: url(images/elements/efix/efix_focal_length.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-dimensions {
+	background: url(images/elements/efix/efix_dimensions.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-pixel-y-dimension {
+	background: url(images/elements/efix/efix_y_dimension.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-pixel-x-dimension {
+	background: url(images/elements/efix/efix_x_dimension.gif) no-repeat left center;
+}
+
+p.exif-oecf-value {
+}
+
+p.exif-subsec-time-original {
+}
+
+p.exif-exposure-mode {
+}
+
+p.exif-spatial-frequency-response {
+}
+
+p.exif-scene-capture-type {
+}
+
+p.exif-subject-location {
+}
+
+/* icon */
+
+p.exif-shutter-speed {
+	background: url(images/elements/efix/efix_shutter_speed.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-datetime-original {
+	background: url(images/elements/efix/efix_date_time_x2.gif) no-repeat left center;
+}
+
+p.exif-subsec-time {
+}
+
+p.exif-compressed-bits-per-pixel {
+}
+
+p.exif-flash-energy {
+}
+
+p.exif-saturation {
+}
+
+p.exif-brightness {
+}
+
+/* icon */
+
+p.exif-exposure-time {
+	background: url(images/elements/efix/efix_exposure_time.gif) no-repeat left center;
+}
+
+p.exif-f-number {
+}
+
+p.exif-file-source {
+}
+
+p.exif-gain-control {
+}
+
+p.exif-subject-area {
+}
+
+p.exif-cfa-pattern {
+}
+
+p.exif-scene-type {
+}
+
+p.exif-white-balance {
+}
+
+p.exif-flash {
+}
+
+p.exif-exposure-index {
+	
+}
+
+p.exif-flashpix-version {
+}
+
+p.exif-device-setting-description {
+}
+
+p.exif-focalplane-x-resolution {
+}
+
+/* icon */
+
+p.exif-image-uniqueid {
+	background: url(images/elements/efix/efix_image_unique_id.gif) no-repeat left center;
+}
+
+p.exif-components-configuration {
+}
+
+p.exif-light-source {
+}
+
+p.exif-sensing-method {
+}
+
+/* icon */
+
+p.exif-aperture {
+	background: url(images/elements/efix/efix_aperture.gif) no-repeat left center;
+}
+
+p.exif-sharpness {
+}
+
+p.exif-exposure-program {
+	
+}
+
+p.exif-subject-distance {
+}
+
+p.exif-subsec-time-digitized {
+}
+
+p.exif-contrast {
+}
+
+p.exif-focalplane-resolution-unit {
+}
+
+p.exif-gamma {
+}
+
+/* icon */
+
+p.exif-35mm-focal-length {
+	background: url(images/elements/efix/efix_focal_length.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-datetime-digitized {
+	background: url(images/elements/efix/efix_date_time_x2.gif) no-repeat left center;
+}
+
+p.exif-subject-distance-range {
+}
+
+p.exif-custom-rendered {
+}
+
+/* icon */
+
+p.exif-max-aperture {
+	background: url(images/elements/efix/efix_aperture.gif) no-repeat left center;
+}
+
+p.exif-sound-file {
+}
+
+p.exif-metering-mode {
+}
+
+p.exif-spectral-sensitivity {
+}
+
+p.exif-exposure-bias {
+	
+}
+
+p.exif-focalplane-y-resolution {
+}
+
+/* icon */
+
+p.exif-iso-rating {
+	background: url(images/elements/efix/efix_iso.gif) no-repeat left center;
+}
+
+/* icon */
+
+p.exif-maker-note {
+	background: url(images/elements/efix/efix_maker_note.gif) no-repeat left center;
+}
+
+p.exif-digital-zoom-ratio {
+}
+
+/* icon */
+
+p.exif-user-comment {
+	background: url(images/elements/efix/efix_user_comment.gif) no-repeat left center;
+}
+/* @end */
+	
+/* @end */
+
+/* @group quicktime page */
+
+.movie-description {
+	text-align: left;
+	margin-top: 15px;
+
+}
+	
+/* @end */
+
+/* @group quicktime album */
+
+/* Index Page */
+
+.movie-page-title {
+	font-weight: bold;
+	margin-top: 0;
+	font-size: 18px;
+	text-indent: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding-bottom: 5px;
+	text-indent: 10px;
+	padding-top: 4px;
+	position: relative;
+}
+
+.movie-page-description {	
+	font-size: 1em;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	text-align: left;
+	padding-top: 8px;
+}
+
+.movie-thumbnail-frame {
+	float: left;
+	display: inline;
+	width: 131px;
+	text-align: center;
+	margin: 5px 15px 10px 0;
+}
+
+.movie-thumbnail-frame:hover {
+	text-decoration: underline;
+}
+
+
+.movie-thumbnail-caption {
+	padding-top: 9px;
+	text-align: center;
+	padding-bottom: 8px;
+	font-size: 11px;
+}
+
+/* Index Page END */
+
+/* single page movie */
+
+.movie-background { 
+}
+
+.movie-frame {
+	text-align: center;
+	margin-top: 20px;
+	background: none;
+	margin: 5px;
+}
+
+/* movie-frame -- 8 rientranti */
+
+.movie-title {
+	text-align: center;
+	color: #000000;
+	padding-top: 5px;
+	background: #ebebeb url(images/elements/tile/background.gif) repeat;
+	padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+/* Single Page movie end */
+
+
+/* @end */
+
+/* @group contact form - imput */
+
+form {
+	text-align: left;
+	margin-left: 10px;
+}
+
+.message-text {
+	padding-left: 10px;
+	font-style: italic;
+}
+
+form label {
+	background: url(images/elements/icons/blogbackgrey.gif) no-repeat 0 50%;
+	padding-left: 10px;
+} 
+
+.required-text { } 
+
+.form-input-field {
+	background: #e9e9e9;
+	width: 405px;
+} 
+
+.form-input-button { }
+
+.form-input-field:hover, .form-input-button:hover {
+	background: #f8f8f8;
+}
+
+/* not suported in IE6 */
+
+.form-input-field:focus, .form-input-button:focus {
+	background: #f8f8f8;
+} 
+/* @end */
+
+/* www.multithemes.com
+Copyright:
+You can modify all features of  theme but only for your personal use.
+By installing this theme file onto your computer, you agree that you will use this theme only for your personal web design.
+You can't distribute or resell this theme without written permission from Multithemes. */
+
+/* www.rwmultitool.com
+Copyright:
+You can modify all features of  theme but only for your personal use.
+By installing this theme file onto your computer, you agree that you will use this theme only for your personal web design.
+You can't distribute or resell this theme without written permission from Multithemes. */
+
+

@@ -1,0 +1,9 @@
+/* GreyBox transparent - Not Visible in IEPC6 */
+
+.GB_header .inner {
+	opacity: 0.8;
+}
+
+.GB_Window .header {
+	opacity: 0.8;
+}

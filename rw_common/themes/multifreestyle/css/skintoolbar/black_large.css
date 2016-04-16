@@ -1,0 +1,133 @@
+/* www.multithemes.com */
+
+#shadow{
+	background: url(../../images/elements/tile/shadow_1.png) no-repeat left top;
+	height: 6px;
+	position: relative;
+	bottom: 0;
+}
+
+/* color black full */
+
+#navcontainer {
+	background: repeat-x url(../../images/colors/toolbar1b.jpg);
+	height: 64px;
+}
+
+/* -----toolbar */
+
+/* solo colori */
+
+#navcontainer .currentAncestor {
+	text-shadow: 0px 0px 3px #7f7f7f;
+}
+
+/* #ffffff */
+
+#navcontainer .current {
+	text-shadow: 0px 1px 0px #000000;
+	text-decoration: none;
+	border-style: none;
+	font-weight: bold;
+}
+
+/* #ffffff */
+
+/* x */
+
+#navcontainer li {
+	text-decoration: none;
+}
+
+/* #d2d2d2 */
+
+#navcontainer a{
+	text-shadow: 0px 1px 0px #000000;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #d2d2d2 */
+
+#navcontainer a:hover {
+	text-shadow: 0px 0px 3px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #ffffff */
+
+#navcontainer a:active {
+	text-shadow: 0px 0px 3px #ffffff;
+	text-decoration: none;
+}
+
+/* #ffffff */
+
+/* I - edit position */
+
+#navcontainer ul ul {
+	top: 21px;
+	text-shadow: 0px 1px 0px #000000;
+}
+
+/* #d2d2d2 */
+
+#navcontainer ul ul a {
+	text-decoration: none;
+	border-style: none;
+	text-shadow: 0px 1px 0px #000000;
+}
+
+/* #d2d2d2 */
+
+#navcontainer ul ul a:hover{
+	text-shadow: 0px 0px 3px #ffffff;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #ffffff */
+
+#navcontainer ul ul .current{
+	text-shadow: 0px 1px 0px #000000;
+	text-decoration: none;
+	border-style: none;
+}
+
+/* #ffffff */
+
+/* II  --> over I - edit position */
+
+#navcontainer ul ul ul {
+	top: 19px;
+	text-shadow: 0px 1px 0px #000000;
+	}
+
+/* #d2d2d2 */
+
+
+#navcontainer ul ul ul li a {
+	text-shadow: 0px 1px 0px #000000;
+}
+
+/* #d2d2d2 */
+
+#navcontainer ul ul ul li a:hover
+ {
+	text-shadow: 0px 0px 3px #ffffff;
+	text-decoration: none;
+	border-style: none;
+		
+}
+
+/* #ffffff */
+
+#navcontainer ul ul ul .current {
+	text-shadow: 0px 1px 0px #000000;
+	font-weight: bold;
+}
+
+/* #ffffff */
+
+

@@ -1,0 +1,23 @@
+#contentContainer {
+	width: 270px;
+}
+
+/* www.multithemes.com */
+
+
+#container #top {
+	width: 500px;
+}
+
+
+#container, #navcontainer, #navcontainer ul, #navcontainer ul ul {
+	width: 500px;
+}
+
+#headerEdge{
+	width: 500px;
+}
+
+#footerEdge {
+	width: 500px;
+}

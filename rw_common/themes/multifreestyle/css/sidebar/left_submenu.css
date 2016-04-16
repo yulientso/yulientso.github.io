@@ -1,0 +1,77 @@
+/* sidebar */
+
+#sidebarContainer {
+	float: left;
+	clear: right;
+	position: relative;
+	left: 10px;
+}
+
+#contentContainer {
+	border-right: none;
+	margin-left: 220px;
+	margin-right: 0px;
+}
+
+#contentContainer #content {
+}
+
+/* @group NAVCONTAINER TOOLBAR HIDE */
+
+/* I */
+
+#navcontainer ul ul {
+	display: none;
+}
+
+#navcontainer ul ul li {
+	display: none;
+}
+
+#navcontainer ul ul a {
+	display: none;
+}
+
+#navcontainer ul ul a:hover{
+	display: none;
+}
+
+#navcontainer ul ul #current{
+	display: none;
+}
+
+/* II  --> over */
+
+#navcontainer ul ul ul {
+	display: none;
+}
+
+#navcontainer ul ul ul li
+ {
+	display: none;
+}
+
+#navcontainer ul ul ul li a
+ {
+	display: none;
+}
+
+#navcontainer ul ul ul li a:hover
+ {
+	display: none;
+}
+
+#navcontainer ul ul ul #current {
+	display: none;
+}
+
+#navcontainer ul ul ul ul
+ {
+	display: none;
+}
+
+/* @end */
+
+#navcontainer2 {
+	margin-top: 7px;
+}

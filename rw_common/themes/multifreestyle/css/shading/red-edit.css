@@ -1,0 +1,34 @@
+/* www.multithemes.com */body {
+	background: url(../../images/editable_images/1-red-only.jpg) no-repeat #a7180b fixed 50% 17px 
+}
+
+.photo-background, .movie-background {
+	background-color: #a7180b;
+}
+
+#pageHeader {
+	background: url(../../images/background/red-sx-top.gif) no-repeat left top;
+}
+
+#footer {
+	background: no-repeat url(../../images/background/red-sx-botton.gif) left bottom;
+}
+
+#headerEdge #rightEdge {
+
+	background: url(../../images/background/red-dx-top.gif) no-repeat right top;
+}
+#headerEdge #rightEdge2 {
+
+	background: url(../../images/background/red-dx-top.gif) no-repeat right top;
+}
+
+#footerEdge #rightEdge {
+	background: right bottom no-repeat url(../../images/background/red-dx-botton.gif);
+}
+
+#footerEdge #rightEdge2 {
+	background: right bottom no-repeat url(../../images/background/red-dx-botton.gif);
+}
+
+

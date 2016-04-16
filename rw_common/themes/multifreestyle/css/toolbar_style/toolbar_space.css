@@ -1,0 +1,19 @@
+#navcontainer a{
+	width: auto;
+	padding-left: 11px;
+	padding-right: 11px;
+	display: inline-block;
+}
+
+#navcontainer ul ul a {
+	width: auto;
+	padding-left: 11px;
+	padding-right: 11px;
+}
+
+#navcontainer ul ul ul li a
+ {
+	width: auto;
+	padding-left: 11px;
+	padding-right: 11px;
+}

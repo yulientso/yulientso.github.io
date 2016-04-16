@@ -1,0 +1,280 @@
+/* Freestyle, format version 1.2  */
+
+/* www.multithemes.com
+Copyright:
+You can modify all features of  theme but only for your personal use.
+By installing this theme file onto your computer, you agree that you will use this theme only for your personal web design.
+You can't distribute or resell this theme without written permission from Multithemes.      
+ *//* only back and grey */
+ 
+ body {
+	background: transparent none;
+	margin: 0px 5% 0px 5%;
+	text-align: left;
+	color: #000000;
+	letter-spacing: 0.5px;
+	word-spacing: 1px;
+	padding: 0px;
+	font: 10pt Geneva, Arial, Helvetica;
+}
+
+p { 
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+a:link, a:visited {
+}
+
+a:hover, a:active {
+}
+
+#container {	text-align: left;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+#pageHeader {
+	text-align: left;
+	background: none;
+	border-bottom: 1px solid #cccccc;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+#pageHeader img {
+	float: right;
+}
+
+#pageHeader h1 {
+	color: #000000;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 15pt;
+	padding: 0px;
+}
+
+#pageHeader h2 {
+	color: #4a4a4a;
+	margin: 0px;
+	font-size: 12pt;
+	font-weight: normal;
+	padding: 0px;
+}
+
+#contentContainer {
+	float: none !important;
+	padding: 0px;
+}
+
+#contentContainer #content {
+	padding: 0px;
+}
+
+#contentContainer #content img {
+}
+
+#sidebarContainer {
+	float: right;
+}
+
+#sidebarContainer .sidebar {
+	width: 190px;
+	padding: 10px;
+	border-left: 1px solid #cccccc;
+}
+
+#footer {
+	text-align: center; 
+	background: none;
+	color: #000000;
+	font-size: 10pt;
+	border-top: 1px solid #cccccc;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#footer a {
+}
+
+#footer a:hover {
+}
+
+#navcontainer {
+	display: none;
+}
+
+#breadcrumbcontainer {
+	display: none;
+}
+
+.standout {
+	color: #2c2c2c;
+	font-size: 11pt;
+	font-weight: bold;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	padding: 40px;
+	font-style: italic;
+}
+
+h5 {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+h4 {
+	font-size: 14pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+h3 {
+	font-size: 16pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+h2 {
+	font-size: 18pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+h1 {
+	font-size: 20pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.imageStyle {
+}
+
+.blog-entry {
+	border-style: none;
+}
+
+.blog-entry-title {
+	font-size: 16pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+	border-style: none;
+}
+
+.blog-entry-date {
+	margin-bottom: 10px;
+	margin-top: 5px;
+	border-style: none;
+	font-size: 10pt;
+	color: #333333;
+}
+
+.blog-entry-body {
+	margin-bottom: 45px;
+	border-style: none;
+}
+
+.filesharing-description {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #d9d9d9;
+}
+
+.filesharing-item {
+	
+}
+
+.filesharing-item-title {
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+.filesharing-item-description {
+	margin-bottom: 10px;
+}
+
+.album-title {
+	font-size: 15pt;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.album-description {
+}
+
+.thumbnail-frame {
+	margin: 0px;
+	padding: 0px;
+}
+
+.thumbnail-frame a {
+}
+
+.thumbnail-frame a:hover {
+	height: 30px;
+}
+
+.thumbnail-frame img {
+	background: repeat url(images/sidebar_bg.png);
+}
+
+.thumbnail-caption {
+	color: #4c4c4c;
+	margin-top: -2px;
+	font-size: 10pt;
+}
+
+.photo-background {
+	text-align: center;
+}
+
+.photo-navigation {
+	background: none;
+	display: none;
+}
+
+.photo-navigation a {
+	display: none;
+}
+
+.photo-navigation a:hover {
+	display: none;
+}
+
+.photo-frame{
+
+}
+
+.photo-links {
+	display: none;
+}
+
+.photo-title {
+	display: none;
+}
+
+.photo-caption {
+	font-size: 11pt;
+	margin: 0px;
+	text-align: center;
+}
+
+.movie-title {
+	font-size: 15pt;
+	font-weight: bold;
+	text-align: left;
+}
+
+.movie-description {
+	text-align: center;
+}
+
+.movie-frame {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+

@@ -1,0 +1,30 @@
+#navcontainer ul ul a {		
+	border-right: 1px none #f8f8f8;
+	border-left: 1px none #f8f8f8;
+	border-bottom: 1px none #f8f8f8;
+}
+
+#navcontainer ul ul a:hover{		
+	border-right: 1px none #3f3f3f;
+	border-left: 1px none #3f3f3f;
+	border-bottom: 1px none #3f3f3f;
+}
+
+#navcontainer ul ul #current{		
+	border-right: 1px none #3f3f3f;
+	border-left: 1px none #3f3f3f;
+	border-bottom: 1px none #3f3f3f;
+}
+
+#navcontainer ul ul .current{		
+	border-right: 1px none #3f3f3f;
+	border-left: 1px none #3f3f3f;
+	border-bottom: 1px none #3f3f3f;
+}
+
+#navcontainer ul ul .currentAncestor {	
+	border-right: 1px none #3f3f3f;
+	border-left: 1px none #3f3f3f;
+	border-bottom: 1px none #3f3f3f;
+
+}

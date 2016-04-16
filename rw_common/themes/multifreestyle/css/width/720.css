@@ -1,0 +1,29 @@
+#contentContainer {
+	width: 490px;
+}
+
+/* My Comment */
+
+/* www.multithemes.com */
+
+
+#container #top {
+	width: 720px;
+}
+
+
+#container, #navcontainer, #navcontainer ul, #navcontainer ul ul {
+	width: 720px;
+}
+
+ #navcontainer, #navcontainer ul, #navcontainer ul ul {
+	width: 720px;
+}
+
+#headerEdge{
+	width: 720px;
+}
+
+#footerEdge {
+	width: 720px;
+}

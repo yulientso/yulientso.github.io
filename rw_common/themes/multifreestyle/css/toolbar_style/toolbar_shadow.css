@@ -1,0 +1,91 @@
+/* @group Toolbar - horizontal SHADOW off */
+
+#navcontainer {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer #current {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer .current {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer .currentAncestor {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer li {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer a{
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer a:hover {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer a:active {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul li {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul a {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul a:hover{
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul .current{
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul #current{
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul li {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul li a {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul li a:hover {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul .current {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul #current {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+#navcontainer ul ul ul ul {
+	text-shadow: #0b0b0b 0 0 0;
+}
+
+/* @end */
